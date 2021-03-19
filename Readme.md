@@ -64,7 +64,7 @@ there are several state of the art CycleGANs models in the industry that differ 
 this is a sample of giving both models a set of test images and the generated results from each model.
 
 note that both model have two very different style to apply on the images (AnimeGANv2 turns the images to Anime-like images aqcuired from Anime films while cycleGAN turns them to toons like in disney and pixar) which is not due to the different model structure but due to the different datasets distribution used for training, which actually shows how GANs work, that the model tries to learn features from a specific set of images to turn other images to that set.
-for more information about each model, please browse to its directory and check the readme.
+for more information about each model, please navigate to its directory and check the readme.
 
 
 

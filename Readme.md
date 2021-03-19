@@ -77,3 +77,10 @@ for more information about each model, please browse to its dir. and check the r
 | <img src="https://github.com/OmarM-Abdallah/Cartoonification-Task/blob/main/AnimeGANv2/dataset/test/Omar/7.jpg" alt="" width="1000" height="250"/> | <img src="https://github.com/OmarM-Abdallah/Cartoonification-Task/blob/main/AnimeGANv2/results/Omar_Results/7.jpg" alt="" width="1000" height="250"/> | ![](https://github.com/OmarM-Abdallah/Cartoonification-Task/blob/main/StyleGAN2/generated/7_01-toon.jpg) |
 
 
+### Original Repos
+**AnimeGANv2:**[here](https://github.com/TachibanaYoshino/AnimeGANv2)
+
+**StyleGAN:**[here](https://github.com/justinpinkney/stylegan2)
+
+
+

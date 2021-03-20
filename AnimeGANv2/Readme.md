@@ -85,4 +85,11 @@ use your own personal dataset or download the original dataset used by authors a
 
 ##### Important Notes: 
 - **for steps 3-7:** adjust the commands arguments in the following steps to suit your usage.
-- the model was trained using google colab , which doesn't provide a consistant GPU, so unfortunately it wasn't possible to obtain relevant statistics of the training process in terms of training time or for testing in terms of FPS, however you can refer to the [paper](https://github.com/OmarM-Abdallah/Cartoonification-Task/blob/main/AnimeGANv2/AnimeGANANovelLightweightGAN.pdf) as it does provide these information.
+- the model was trained using google colab , which doesn't provide a consistant GPU, so unfortunately it wasn't possible to obtain relevant statistics of the training process in terms of training time or for testing in terms of FPS, however the paper does provide this information ad follows:
+
+| Network | Params | Model size | FLOPs | Inference time
+| --- | --- | --- | --- | --- | 
+|CartoonGAN | 12253152 | 46.74M | 108.98B | 51 ms/image
+|AnimeGAN | 3956096 | 15.09M | 38.66B | 43 ms/image
+
+you can refer to the [paper](https://github.com/OmarM-Abdallah/Cartoonification-Task/blob/main/AnimeGANv2/AnimeGANANovelLightweightGAN.pdf) for more info.

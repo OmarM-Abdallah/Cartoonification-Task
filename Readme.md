@@ -97,6 +97,8 @@ the time recorded for both models inferance time on these images are as follows:
 as we can see there's a large time difference between both models (almost 10x ), as each uses different methods and architecture.
 however no valid accuracy comparison can be obtained as both achieve very different results.
 
+**important note:**
+- for ANimeGAN I worked on training the model from scratch and testing with the result weights, this process was done using google colab which took alot of time as it doesn't provide a consistent GPU device , and as a result  by the time I came across StyleGAN I didn't have the time to train it and just used the pretrained model.
 
 
 

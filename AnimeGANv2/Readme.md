@@ -85,7 +85,7 @@ use your own personal dataset or download the original dataset used by authors a
 
 ##### Important Notes: 
 - **for steps 3-7:** adjust the commands arguments in the following steps to suit your usage.
-- the model was trained using google colab , which doesn't provide a consistant GPU, so unfortunately it wasn't possible to obtain relevant statistics of the training process in terms of training time or for testing in terms of FPS, however the paper does provide this information ad follows:
+- the model was trained using google colab , which doesn't provide a consistant GPU, so unfortunately it wasn't possible to obtain relevant statistics of the training process in terms of training time or for testing in terms of FPS, however the paper does provide this information in a comparison they did for AnimeGAN vs CartonnGAN which they based their work off as follows:
 
 | Network | Params | Model size | FLOPs | Inference time
 | --- | --- | --- | --- | --- | 

@@ -80,6 +80,27 @@ for more information about each model, please navigate to its directory and chec
 | <img src="https://github.com/OmarM-Abdallah/Cartoonification-Task/blob/main/AnimeGANv2/dataset/test/Omar/Omar.jpg" alt="" width="600" height="230"/> | <img src="https://github.com/OmarM-Abdallah/Cartoonification-Task/blob/main/AnimeGANv2/results/Omar_Results/Omar.jpg" alt="" width="600" height="230"/> | ![](https://github.com/OmarM-Abdallah/Cartoonification-Task/blob/main/StyleGAN2/generated/Omar_01-toon.jpg) |
 
 
+test-time: 66.78291487693787 s
+one image test time : 9.540416410991124 s
+inferance time=  76.26852107048035
+
+pred time=  645.4319376945496
+inferance time=  649.176673412323
+
+the time recorded for both models inferance time on these images are as follows:
+
+| Model | Prediction time | one image test time |total inferance time (prediciton + post processing) |
+| --- | --- | --- | --- |
+|AnimeGAN |  66.78291487693787 s | 9.540416410991124 s |76.26852107048035 s |
+|StyleGAN | 645.4319376945496 s | 92.2045625277928 s |649.176673412323 s |
+
+as we can see there's a large time difference between both models (almost 10x ), as each uses different methods and architecture.
+however no valid accuracy comparison can be obtained as both achieve very different results.
+
+
+
+
+
 ### Original Repos
 **AnimeGANv2:**[here](https://github.com/TachibanaYoshino/AnimeGANv2)
 

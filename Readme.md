@@ -104,9 +104,9 @@ however no valid accuracy comparison can be obtained as both achieve very differ
 
 
 ### Original Repos
-**AnimeGANv2:**[here](https://github.com/TachibanaYoshino/AnimeGANv2)
+**AnimeGANv2:** [here](https://github.com/TachibanaYoshino/AnimeGANv2)
 
-**StyleGAN:**[here](https://github.com/justinpinkney/stylegan2)
+**StyleGAN:** [here](https://github.com/justinpinkney/stylegan2)
 
 
 
